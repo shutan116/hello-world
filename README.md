@@ -2,4 +2,5 @@
 study how to use github
 
 Dear all:
-   I'm Mr shu here, now i want try to change some word.
+    I'm Mr test here, i want to change some word for test.
+
